@@ -52,7 +52,7 @@ This dashboard was built to understand how different product categories and regi
 
 ## Files Included
 
-- `Retail_Sales_Profitability_Dashboard.xlsx`
+- `Retail Sales & Profitability Analytics Dashboard.xlsx`
 - `dashboard-preview.png`
 - `Sales Data.csv`
 
